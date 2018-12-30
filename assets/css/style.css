@@ -1,0 +1,36 @@
+/*
+Plugin Name: Super Awesome  upVote
+Plugin URI: http://malith.pro
+Description: Super Awesome  upVote
+Author: Malith Priyashan
+Author URI: http://malith.pro
+Version: 1.0.0
+Text Domain: super-awesome-up-vote
+License: GPLv2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+
+
+.super-awesome-up-vote-wrapper button:active
+,.super-awesome-up-vote-wrapper button:focus
+,.super-awesome-up-vote-wrapper button:visited
+,.super-awesome-up-vote-wrapper button{
+    border: 0;
+    background: none;
+    cursor: pointer;
+    transition: all 0.5s ease;
+
+    background-image: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.super-awesome-up-vote-wrapper button:hover {
+     font-weight: bold;
+ }
+
+.super-awesome-up-vote-wrapper span{
+    color: orangered;
+}
