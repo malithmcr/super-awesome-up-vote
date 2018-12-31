@@ -1,18 +1,30 @@
-# super-awesome-up-vote
-Voting plugin for wordpress posts.
+<h1 align="center">
+  Super awesome up vote
+</h1>
 
-  - Chnage voting icons
-  - use shortcode to add voting anywhere you want.
+
+<h4 align="center">
+  A Voting plugin for wordpress posts ❤️
+</h4>
  
+<div align="center">
+    <img alt="Header" src="screenshot2.png" width="88%">
+</div>
+ 
+<div align="center">
+  <img alt="Header" src="screenshot.png" width="88%">
+</div>
 
-## Screenshots
 
-#### Backend
-![Alt text](/screenshot.png?raw=true "Backend")
-#### Frontend with text
-![Alt text](/screenshot2.png?raw=true "Frontend")
-#### Frontend with icons
-![Alt text](/screenshot3.png?raw=true "Frontend Icon")
+<div align="center">
+  <img alt="Header" src="screenshot3.png" width="88%">
+</div>
+
+
+## Features
+
+- Changble voting icons.
+- Use shortcode to add voting anywhere you want.
 
 ### Tech
 
