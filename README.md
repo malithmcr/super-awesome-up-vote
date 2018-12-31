@@ -1,10 +1,10 @@
 <h1 align="center">
-  Super awesome up vote
+  Super awesome 👍up vote 👎
 </h1>
 
 
 <h4 align="center">
-  A Voting plugin for wordpress posts ❤️
+  🙋‍ A Voting plugin for WordPress 🙋‍
 </h4>
  
 <div align="center">
