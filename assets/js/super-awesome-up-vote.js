@@ -69,7 +69,7 @@ var superAwesomeUpVote = (function ($) {
 
     var _sendVote = function (vote, otherData) {
         $.post(
-            'wp-admin/admin-ajax.php',
+            window.location.origin + 'wp-admin/admin-ajax.php',
             {
                 'action': 'add_votes',
                  'vote_type' : vote,
